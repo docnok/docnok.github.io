@@ -7,7 +7,7 @@ I am currently Lead Data Scientist at the Target Corporation, Minneapolis, MN.
 
 Previously, I was an assistant professor in the ECE department at Wayne State University. I received my Ph.D. from Rice University, where I worked at the Center for Multimedia Communication.
 
-I'm interested in all things data and probability: machine/deep learning, computer vision, optimization, and information theory.
+I'm interested in all things data and probability: machine/deep learning, computer vision, (stochastic, distributed) optimization, and information theory.
 
 [[resume](resume.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[curriculum vitae](cv.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[github repo](https://github.com/docnok)] &nbsp;&nbsp;&nbsp;&nbsp; [[publication list](publications.html)]
 
