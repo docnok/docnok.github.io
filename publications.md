@@ -4,8 +4,8 @@ title: Publications
 ---
 
 ### Journal publications
-- N. Michelusi, M. Nokleby, U. Mitra, R. Calderbank, "Multi-scale Spectrum Sensing in 5G Cognitive Networks," accepted to IEEE Transactions on Communications, Nov. 2018.
-- M. Nokleby and W. U. Bajwa, "Stochastic Optimization from Distributed, Streaming Data in Rate-limited Networks," accepted to IEEE Transactions on Signal and Information Processing over Networks, July 2018.
+- M. Nokleby and W. U. Bajwa, "Stochastic Optimization from Distributed, Streaming Data in Rate-limited Networks," IEEE Transactions on Signal and Information Processing over Networks, March 2019.
+- N. Michelusi, M. Nokleby, U. Mitra, R. Calderbank, "Multi-scale Spectrum Sensing in 5G Cognitive Networks," IEEE Transactions on Communications, Dec. 2018.
 - I. Jindal and M. Nokleby, "Classification and Representation via Separable Subspaces: Performance Limits and Algorithms," IEEE Journal of Selected Topics in Signal Processing, Oct. 2018.
 - N. Ferdinand, B. Kurkoski, M. Nokleby, B. Aazhang, "Low-Dimensional Shaping for High-Dimensional Lattice Codes," IEEE Transactions on Wireless Communications, Nov. 2017.
 - M. Nokleby, B. Aazhang, "Cooperative Compute-and-Forward," IEEE Transactions on Wireless Communications, vol. 15, no. 1, Jan. 2016.
@@ -17,6 +17,10 @@ title: Publications
 - W. C. Stirling, M. S. Nokleby, "Satisficing Coordination and Social Welfare for Robotic Societies," International Journal of Social Robotics, vol. 1, no. 1, Jan. 2009.
 
 ### Conference publications
+- I. Jindal, M. Nokleby, D. Pressel, X. Chen, "A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels" accepted to the CVPR Workshop on Uncertainty and Robustness in Deep Learning, Long Beach, CA, 2019.
+- I. Jindal, M. Nokleby, D. Pressel, and B. Lester, "An Effective Label Noise Modelfor DNN Text Classification," Conference of the North American Chapterof the Association for Computational Linguistics, Minneapolis, MN, June 2019.
+- N. Ferdinand, S. Draper, H. Al-Lawati, M. Nokleby, "Anytime Minibatch: Exploiting Stragglers in Online Distributed Optimization," International Conference on Learning Representations, New Orleans, LA, May 2019.
+- P. Farajiparvar, A. Beirami, M. Nokleby, "Information Bottleneck Methods for Distributed Learning," Allerton Conference, Monticello, IL, Nov. 2018.
 - I. Jindal, M. Nokleby, "Performance Limits on the Classification of Kronecker-Structured Models," IEEE Symposium on Information Theory, Aachen, Germany, June 2017.
 - N. Michelusi, M. Nokleby, U. Mitra, R. Calderbank, "Multi-scale Spectrum Sensing in Small- Cell mm-Wave Cognitive Wireless Networks," IEEE International Conference on Communications, Paris, France, May 2017.
 -  I. Jindal, M. Nokleby, X. Chen, "Learning Deep Networks from Noisy Labels with Dropout Regularization," IEEE International Conference on Data Mining, Barcelona, Spain, Dec. 2016. [20% acceptance rate]

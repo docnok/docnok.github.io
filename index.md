@@ -14,6 +14,9 @@ I'm interested in all things data and probability: machine/deep learning, comput
 ---
 
 ### Recent news:
-- Dec. 2018: Conference paper "Anytime Minibatch: Exploiting Stragglers in Online Distributed Optimization" is accepted to ICLR 2019. Joint work with Nuwan Ferdinand, Stark Draper, and Haider Al-Lawati at the University of Toronto.
-- Nov. 2018: Journal paper "Multi-Scale Spectrum Sensing in Dense Multi-Cell Cognitive Networks" is accepted to IEEE Transactions on Communciations. Joint work with Nicolo Michelusi, Urbashi Mitra, and Robert Calderbank.
-- Jul. 2018: Journal paper "Stochastic Optimization from Distributed, Streaming Data in Rate-limited Networks" is accepted to IEEE Transactions on Signal and Information Processing over Networks. Joint work with Waheed U. Bajwa at Rutgers.
+
+- June 2019: We will present "An Effective Label Noise Modelfor DNN Text Classification" at NAACL 2019 in Minneapolis. Joint work with former PhD student Ishan Jindal and collaborators Daniel Pressel and Brian Lester.
+- May 2019: New work "A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels" accepted to the CVPR Workshop on Uncertainty and Robustness in Deep Learning. Work with Ishan Jindal, Daniel Pressel, and Xuwen Chen.
+- May 2019: Presented "Anytime Minibatch: Exploiting Stragglers in Online Distributed Optimization" at ICLR 2019 in New Orleans. Joint work with Nuwan Ferdinand, Stark Draper, and Haider Al-Lawati at the University of Toronto.
+- Mar. 2019: Journal paper "Stochastic Optimization from Distributed, Streaming Data in Rate-limited Networks" appears in IEEE Transactions on Signal and Information Processing over Networks. Joint work with Waheed U. Bajwa at Rutgers.
+- Dec. 2018: Journal paper "Multi-Scale Spectrum Sensing in Dense Multi-Cell Cognitive Networks" appears in IEEE Transactions on Communciations. Joint work with Nicolo Michelusi, Urbashi Mitra, and Robert Calderbank.
