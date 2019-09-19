@@ -18,7 +18,7 @@ title: Publications
 
 ### Conference publications
 - I. Jindal, M. Nokleby, D. Pressel, X. Chen, "A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels" accepted to the CVPR Workshop on Uncertainty and Robustness in Deep Learning, Long Beach, CA, 2019.
-- I. Jindal, M. Nokleby, D. Pressel, and B. Lester, "An Effective Label Noise Modelfor DNN Text Classification," Conference of the North American Chapterof the Association for Computational Linguistics, Minneapolis, MN, June 2019.
+- I. Jindal, M. Nokleby, D. Pressel, and B. Lester, "An Effective Label Noise Model for DNN Text Classification," Conference of the North American Chapterof the Association for Computational Linguistics, Minneapolis, MN, June 2019.
 - N. Ferdinand, S. Draper, H. Al-Lawati, M. Nokleby, "Anytime Minibatch: Exploiting Stragglers in Online Distributed Optimization," International Conference on Learning Representations, New Orleans, LA, May 2019.
 - P. Farajiparvar, A. Beirami, M. Nokleby, "Information Bottleneck Methods for Distributed Learning," Allerton Conference, Monticello, IL, Nov. 2018.
 - I. Jindal, M. Nokleby, "Performance Limits on the Classification of Kronecker-Structured Models," IEEE Symposium on Information Theory, Aachen, Germany, June 2017.
