@@ -3,7 +3,7 @@ layout: default
 title: Matthew Nokleby
 ---
 
-I am currently Lead AI Scientist at the Target Corporation, Minneapolis, MN.
+I am currently Director of AI Science (Computer Vision) at the Target Corporation, Minneapolis, MN.
 
 Previously, I was an assistant professor in the ECE department at Wayne State University. I received my Ph.D. from Rice University, where I worked at the Center for Multimedia Communication.
 
