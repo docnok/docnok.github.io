@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### Journal publications
+- M. Nokleby, H. Raja, W. U. Bajwa, "Scaling-up Distributed Processing of Data Streams for Machine Learning," accepted to the Proceedings of the IEEE.
 - M. Nokleby and W. U. Bajwa, "Stochastic Optimization from Distributed, Streaming Data in Rate-limited Networks," IEEE Transactions on Signal and Information Processing over Networks, March 2019.
 - N. Michelusi, M. Nokleby, U. Mitra, R. Calderbank, "Multi-scale Spectrum Sensing in 5G Cognitive Networks," IEEE Transactions on Communications, Dec. 2018.
 - I. Jindal and M. Nokleby, "Classification and Representation via Separable Subspaces: Performance Limits and Algorithms," IEEE Journal of Selected Topics in Signal Processing, Oct. 2018.
@@ -17,7 +18,8 @@ title: Publications
 - W. C. Stirling, M. S. Nokleby, "Satisficing Coordination and Social Welfare for Robotic Societies," International Journal of Social Robotics, vol. 1, no. 1, Jan. 2009.
 
 ### Conference publications
-- I. Jindal, M. Nokleby, D. Pressel, X. Chen, "A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels" accepted to the CVPR Workshop on Uncertainty and Robustness in Deep Learning, Long Beach, CA, 2019.
+- L. Polania, M. Flores, M. Nokleby, Y. Li, "Learning Furniture Compatibility with Graph Neural Networks,", CVPR Workshops, Jun. 2020.
+- I. Jindal, M. Nokleby, D. Pressel, X. Chen, "A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels" CVPR Workshop on Uncertainty and Robustness in Deep Learning, Long Beach, CA, 2019.
 - I. Jindal, M. Nokleby, D. Pressel, and B. Lester, "An Effective Label Noise Model for DNN Text Classification," Conference of the North American Chapterof the Association for Computational Linguistics, Minneapolis, MN, June 2019.
 - N. Ferdinand, S. Draper, H. Al-Lawati, M. Nokleby, "Anytime Minibatch: Exploiting Stragglers in Online Distributed Optimization," International Conference on Learning Representations, New Orleans, LA, May 2019.
 - P. Farajiparvar, A. Beirami, M. Nokleby, "Information Bottleneck Methods for Distributed Learning," Allerton Conference, Monticello, IL, Nov. 2018.
