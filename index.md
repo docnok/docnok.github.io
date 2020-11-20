@@ -3,11 +3,11 @@ layout: default
 title: Matthew Nokleby
 ---
 
-I am currently Director of Artificial Intelligence for Advanced Machine Learning at the Target Corporation, Minneapolis, MN.
+I am currently Prinicpal Machine Learning Scientist for Best Buy, Minneapolis, MN.
 
-Previously, I was an assistant professor in the ECE department at Wayne State University. I received my Ph.D. from Rice University, where I worked at the Center for Multimedia Communication.
+Previously I was a Director of Artificial Intelligence for Target and assistant professor at Wayne State University. I received my Ph.D. from Rice University, where I worked at the Center for Multimedia Communication.
 
-I'm interested in all things data and probability: machine/deep learning, computer vision, (stochastic, distributed) optimization, and information theory.
+I'm interested in all things data and probability: machine/deep learning, computer vision and NLP, (stochastic, distributed) optimization, and information theory.
 
 [[resume](resume.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[curriculum vitae](cv.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[github](https://github.com/docnok)] &nbsp;&nbsp;&nbsp;&nbsp; [[publication list](publications.html)]
 
