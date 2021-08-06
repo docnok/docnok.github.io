@@ -3,9 +3,9 @@ layout: default
 title: Matthew Nokleby
 ---
 
-I am currently Prinicpal Machine Learning Scientist for Best Buy, Minneapolis, MN.
+I am currently computer vision lead for <a href="https://www.lily.ai/">Lily AI</a>.
 
-Previously I was a director of Artificial Intelligence for Target and an assistant professor at Wayne State University. I received my Ph.D. from Rice University, where I worked at the Center for Multimedia Communication.
+Previously I have been director of AI (computer vision / NLP) at Target, principal ML scientist (personalization / search) at Best Buy, and assistant professor of ECE at Wayne State University.
 
 I'm interested in all things data and probability: machine/deep learning, computer vision and NLP, (stochastic, distributed) optimization, and information theory.
 
@@ -14,9 +14,9 @@ I'm interested in all things data and probability: machine/deep learning, comput
 ---
 
 ### Recent news:
+- July 2021: Co-organized the Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning at ICML 2021 (<a href="https://sites.google.com/view/itr3/home">ITR3 @ ICML-21</a>)! Talks and panels are archived and can be viewed at the workshop website.
 - Nov 2020: Our paper, "Scaling-up Distributed Processing of Data Streams for Machine Learning," appears in the Proceedings of the IEEE. Joint work with Waheed Bajwa of Rutgers and Haroon Raja of University of Michigan. Preprint available [here](https://arxiv.org/abs/2005.08854).
-- Jun 2020: Published "[Learning Furniture Compatibility with Graph Neural Networks](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w22/Polania_Learning_Furniture_Compatibility_With_Graph_Neural_Networks_CVPRW_2020_paper.pdf)," at CVPR Workshops with Target AI colleagues Luisa Polania-Cabrera, Mauricio Flores, and Yiran Li. It both articulates new methods for visual style compatibility and presents a new dataset for evaluating furniture compatibility.
-- July 2019: Gave a tutorial talk, "An Introduction to Deep Metric Learning", for a Target-sponsored meeting of Data Science Minneapolis. Slides available [here](talks/dsm-jul-2019/#).
+- Jun 2020: Published "[Learning Furniture Compatibility with Graph Neural Networks](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w22/Polania_Learning_Furniture_Compatibility_With_Graph_Neural_Networks_CVPRW_2020_paper.pdf)," at CVPR Workshops with Target AI colleagues Luisa Polania-Cabrera, Mauricio Flores, and Yiran Li. It describes new methods for visual style compatibility and presents a new dataset for evaluating furniture compatibility.
 - June 2019: Presented "An Effective Label Noise Model for DNN Text Classification" at NAACL 2019 in Minneapolis. Joint work with former PhD student Ishan Jindal and collaborators Daniel Pressel and Brian Lester.
 - May 2019: New work "A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels" accepted to the CVPR Workshop on Uncertainty and Robustness in Deep Learning. Work with Ishan Jindal, Daniel Pressel, and Xuwen Chen.
 - May 2019: Presented "Anytime Minibatch: Exploiting Stragglers in Online Distributed Optimization" at ICLR 2019 in New Orleans. Joint work with Nuwan Ferdinand, Stark Draper, and Haider Al-Lawati at the University of Toronto.
